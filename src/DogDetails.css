@@ -1,0 +1,28 @@
+.DogDetails {
+	display: flex;
+	padding: 20px 50px;
+	width: 65%;
+	margin: auto;
+}
+
+.img {
+	padding-top: 30px;
+}
+
+.img img {
+	height: 300px;
+	border-radius: 20px;
+}
+
+.DogDetails ul {
+	margin: auto;
+	width: 60%;
+}
+.DogDetails li {
+	text-align: left;
+}
+
+.DogDetails a {
+	color: rgb(36, 97, 77);
+	text-decoration: none;
+}

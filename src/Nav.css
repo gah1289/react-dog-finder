@@ -1,0 +1,18 @@
+.NavBar {
+	display: flex;
+	justify-content: center;
+	background-color: rgb(197, 244, 228);
+}
+
+.nav-link {
+	margin: 10px 30px;
+}
+
+.nav-link a {
+	color: rgb(36, 97, 77);
+	text-decoration: none;
+}
+
+.nav-link a:hover {
+	font-weight: bolder;
+}
